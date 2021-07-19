@@ -13,7 +13,7 @@ os.system("pip install pyvirtualdisplay && apt-get install xvfb")
 os.system('firefox -v > tmp')                  # store result of firefox -v in tmp
 result   =  open('tmp', 'r').read()            # result var reads the output
 marker   = result.find('Firefox') + 8          # marker marks the 8th letter from the word "Firefox"
-version  = result[marker:].splitlines()[0]     # spliting the output, the version is something like aa.bb.cc
+     # spliting the output, the version is something like aa.bb.cc
 a,b,c = version.split(".")                     # a is the var with the aa
 os.remove('tmp')                               # removing the temporary file
 
