@@ -1,5 +1,5 @@
-# Faitagram - Don't Use This (Doesn't work anymore)-
-A Bruter for FAcebook, twITter, and InstAGRAM. Made with python, developed from brut3k1t.
+# Faitagram - Don't Use This (Rebuild)-
+A Bruter for FAcebook, twITter, and InstAGRAM. Made with python, developed from brut3k1t, edited from antpap07.
 
 [You will need python!]
 
